@@ -1,5 +1,5 @@
 <!-- HEADER  -->
-<header class="main-header">
+<header class="main-header" style="position: sticky; top: 0; z-index: 1000; background-color: rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); transition: all 0.3s ease;">
 	<div class="container">
 		<div class="logo">
 			<a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo.png') }}" alt="logo" style="height: 80px;"></a>

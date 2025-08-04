@@ -110,7 +110,7 @@
 		</div>
 	</section>
 
-	<section class="pricing_plans">
+	<!-- <section class="pricing_plans">
 		<div class="container">
 			<div class="row">
 				<div class="section-title">
@@ -169,7 +169,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- newsletter -->
 	<section class="green-section wow fadeInUp" style="padding:50px 0">

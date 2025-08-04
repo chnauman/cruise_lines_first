@@ -8,8 +8,8 @@
 						<li><a href="{{ route('home') }}" class="animsition-link link">Home</a></li>
 						<li><a href="{{ route('about') }}" class="animsition-link link">about us</a></li>
 						<li><a href="{{ route('services') }}" class="animsition-link link">services</a></li>
-						<li><a href="#" class="animsition-link link">portfolio</a></li>
-						<li><a href="#" class="animsition-link link">blog</a></li>
+						<!-- <li><a href="#" class="animsition-link link">portfolio</a></li>
+						<li><a href="#" class="animsition-link link">blog</a></li> -->
 						<li><a href="{{ route('contact') }}" class="animsition-link link">contact us</a></li>
 					</ul>
 				</nav>
@@ -19,7 +19,7 @@
 		<div class="col-md-4 col-sm-12" style="text-align:right">
 			<div class="row">
 				<div class="uppercase gray-text">
-					created by akhouad &copy;{{ date('Y') }}. all rights reserved.
+					created by CodeAdroits &copy;2025.
 				</div>
 				<ul class="social-icons" style="margin-top:30px;float:right">
 					<li><a href="#"><i class="icon ion-social-facebook"></i></a></li>

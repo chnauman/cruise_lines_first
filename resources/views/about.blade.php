@@ -57,51 +57,21 @@
 
 			<div class="row">
 				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp">
-					<i class="icon ion-iphone"></i>
-					<span class="title montserrat-text uppercase">fully responsive</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
+					<i class="icon ion-ios-infinite-outline"></i>
+					<span class="title montserrat-text uppercase">Endless Destinations & Options</span>
+					<p>Choose from a wide variety of cruises, tailored to every type of traveler. Whether it’s a luxurious getaway or an adventure-packed voyage, the world is your oyster. </p>
 				</div>
 
 				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp" data-wow-delay=".1s">
-					<i class="icon ion-ios-infinite-outline"></i>
-					<span class="title montserrat-text uppercase">unlimited options</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
+					<i class="icon ion-ios-settings"></i>
+					<span class="title montserrat-text uppercase">Tailored Cruise Experience</span>
+					<p>Personalize every detail of your voyage, from selecting your cabin to customizing shore excursions, ensuring a journey that is uniquely yours. </p>
 				</div>
 
 				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp" data-wow-delay=".2s">
-					<i class="icon ion-social-wordpress-outline"></i>
-					<span class="title montserrat-text uppercase">wordpress</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
-				</div>
-
-				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp" data-wow-delay=".3s">
-					<i class="icon ion-ios-cart-outline"></i>
-					<span class="title montserrat-text uppercase">e-commerce</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
-				</div>
-
-				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp" data-wow-delay=".4s">
-					<i class="icon ion-ios-settings"></i>
-					<span class="title montserrat-text uppercase">customizable design</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
-				</div>
-
-				<div class="col-md-4 col-sm-6 col-xs-12 benefits_2_single wow fadeInUp" data-wow-delay=".5s">
 					<i class="icon ion-settings"></i>
-					<span class="title montserrat-text uppercase">support</span>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation. </p>
+					<span class="title montserrat-text uppercase">Dedicated 24/7 Support</span>
+					<p>Our expert support team is always available to assist you with any inquiries, ensuring your cruise experience is smooth, seamless, and unforgettable. </p>
 				</div>
 			</div>
 		</div>
@@ -326,7 +296,7 @@
 			<div class="col-md-6 col-sm-12">
 				<div class="row">
 					<div class="white-section" style="padding:20px">
-						<span class="montserrat-text uppercase" style="font-size:24px">stay informed with our newsletter</span>
+						<span class="montserrat-text uppercase" style="font-size:24px; color: #213556;">stay informed with our newsletter</span>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua.

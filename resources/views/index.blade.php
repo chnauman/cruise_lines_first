@@ -10,8 +10,7 @@
 			<li>
 				<div><span class="small-title uppercase montserrat-text">we're</span></div>
 				<div class="big-title uppercase montserrat-text">Cruise Industry and Tourism Consulting</div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua.</p>
+				<p>Embark on a Journey Beyond the Horizon — Explore the World with Our Exclusive Cruise Experiences.</p>
 			</li>
 			<!-- <li>
 				<div><span class="small-title uppercase montserrat-text">we do</span></div>
@@ -35,10 +34,10 @@
 			<div class="col-md-offset-1 col-md-6 col-sm-12 p-4">
 				<div class="row">
 					<div class="section-title white-semitransparent">
-						<span>Welcome to Cruise Lines First Consultants</span>
+						<span style="padding: 10px;">Welcome to Cruise Lines First Consultants</span>
 					</div>
 					<div class="black-semitransparent p-4 rounded">
-						<p>
+						<p style="padding: 10px;">
 							we have built strong and lasting relationships by helping owners, boards and senior management to achieve their business goals, identify new opportunities, analyse and capitalise on the growth of cruising worldwide. 
 							<br>
 							We serve all manner of cruise industry stakeholders, delivering expertise in strategy, performance improvement, new business development, growth and competition.
@@ -67,24 +66,24 @@
 					<div class="col-md-6 col-sm-12">
 						<div class="row">
 							<i class="icon ion-ios-infinite-outline"></i>
-							<span class="montserrat-text uppercase service-title">unlimited options</span>
+							<span class="montserrat-text uppercase service-title">Cruise Experience Design</span>
 							<ul>
-								<li>branding</li>
-								<li>design &amp; copywriting</li>
-								<li>concept development</li>
-								<li>user experience</li>
+								<li>Unlimited travel destinations</li>
+								<li>Tailored itineraries for all preferences</li>
+								<li>Exclusive themed cruises</li>
+								<li>Curated onboard experiences</li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<div class="row">
 							<i class="icon ion-ios-shuffle"></i>
-							<span class="montserrat-text uppercase service-title">design &amp; development</span>
+							<span class="montserrat-text uppercase service-title">Luxury & Exclusive Cruises</span>
 							<ul>
-								<li>branding</li>
-								<li>design &amp; copywriting</li>
-								<li>concept development</li>
-								<li>user experience</li>
+								<li>Bespoke experiences for high-end clients</li>
+								<li>Customizable cabins and suites</li>
+								<li>Personalized concierge services</li>
+								<li>Exclusive onboard events & experiences</li>
 							</ul>
 						</div>
 					</div>
@@ -93,24 +92,24 @@
 					<div class="col-md-6 col-sm-12">
 						<div class="row">
 							<i class="icon ion-ios-cart-outline"></i>
-							<span class="montserrat-text uppercase service-title">e-commerce</span>
+							<span class="montserrat-text uppercase service-title">Customer-Centric Services</span>
 							<ul>
-								<li>branding</li>
-								<li>design &amp; copywriting</li>
-								<li>concept development</li>
-								<li>user experience</li>
+								<li>Personalized guest service experiences</li>
+								<li>Onboard customer feedback systems</li>
+								<li>Pre-cruise communication and concierge services</li>
+								<li>Post-cruise engagement (e.g., follow-up offers, surveys)</li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<div class="row">
 							<i class="icon ion-ios-settings"></i>
-							<span class="montserrat-text uppercase service-title">customizable design</span>
+							<span class="montserrat-text uppercase service-title">Cruise Concept Development</span>
 							<ul>
-								<li>branding</li>
-								<li>design &amp; copywriting</li>
-								<li>concept development</li>
-								<li>user experience</li>
+								<li>Themed cruise concepts (e.g., adventure, luxury, family)</li>
+								<li>Customized shore excursions</li>
+								<li>Unique onboard activities & amenities</li>
+								<li>Specialized dining and entertainment options</li>
 							</ul>
 						</div>
 					</div>
@@ -310,8 +309,7 @@
 					<div class="white-section" style="padding:20px">
 						<span class="montserrat-text uppercase" style="font-size:24px">stay informed with our newsletter</span>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua.
+							Sign up for our newsletter to receive the latest cruise itineraries, exclusive offers, and exciting onboard experiences straight to your inbox.
 						</p>
 						<form action="#" method="post">
 							@csrf

@@ -36,7 +36,7 @@ theme.
 }
 body{
 	background: #fff;
-	color:#60606e;
+	color:#000;
 	font-family: "Open sans", sans-serif;
 	font-size: 14px;
 	-webkit-font-smoothing: antialiased;
@@ -49,7 +49,7 @@ section{
 	margin-top: 150px;
 }
 .green-section{
-	background-color:#7beec7;
+	background-color:#213556;
 }
 .white-section{
 	background-color:#fff;
@@ -72,7 +72,7 @@ blockquote.bq{
 
 /*links*/
 a{
-	color:#fff;
+	color:#213556;
 	-webkit-transition:all .2s ease-in-out;
 			transition:all .2s ease-in-out;
 }
@@ -102,7 +102,7 @@ a:hover:after{
 .open-sans-text{font-family: "Open sans", sans-serif}
 .white-text{color:white;}
 .green-text{color:#7beec7;}
-.gray-text{color:#fff;}
+.gray-text{color:#213556;}
 
 .uppercase{text-transform: uppercase;}
 .italic{font-style: italic;}
@@ -134,7 +134,7 @@ ul.social-icons li a:hover{
 }
 .section-title span:after{
 	content: "";
-	background-color: #7beec7;
+	background-color: #A2C8D8;
 	position: absolute;
 	top:20px;
 	left:0;
@@ -173,7 +173,7 @@ ul.list li:before{
 	content: '\f374';
 	position: absolute;
 	left: 0;
-	color:#7beec7;
+	color:#213556;
 }
 /*list 2*/
 ul.list_2 li{
@@ -256,12 +256,12 @@ ul.social-icons li a{
 	        box-shadow: 0 0 10px rgba(0,0,0,.2);
 }
 .btn.green{
-	background-color: #7beec7;
+	background-color: #213556;
 	color:#fff;
 }
 .btn.white{
 	background-color: #fff;
-	color:#7beec7;
+	color:#213556;
 }
 @media (max-width: 991px) {
 	.btn{
@@ -521,7 +521,7 @@ footer.main-footer nav.footer-nav ul li a{
 .site-hero .small-title{
 	color:#fff;
 	padding: 7px 12px;
-	background-color: #7beec7;
+	background-color: #213556;
 	display: inline-block;
 }
 .site-hero .big-title{
@@ -627,7 +627,7 @@ footer.main-footer nav.footer-nav ul li a{
 }
 .portfolio .categories-grid .categories ul li a.active{
 	margin-left: 0;
-	background-color: #7beec7;
+	background-color: #213556;
 	padding: 0 10px;
 	color:white;
 }
@@ -817,7 +817,7 @@ footer.main-footer nav.footer-nav ul li a{
 	z-index: 1;
 }
 .input_1 > span.active,.textarea_1 > span.active{
-	color:#7beec7;
+	color:#213556;
 	font-size: 10px;
 	top:0px;
 	left: 5px;
@@ -885,7 +885,7 @@ footer.main-footer nav.footer-nav ul li a{
 .benefits_2_single:nth-last-child(-n+3){margin-bottom: 30px;}
 .benefits_2_single > i{
 	display: inline-block;
-	background-color: #7beec7;
+	background-color: #213556;
 	height: 40px;
 	width: 40px;
 	line-height: 40px;
